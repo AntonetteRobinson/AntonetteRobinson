@@ -14,9 +14,9 @@
 <br>
 <h2>👨‍💻 Systems Programming Projects - C languauge :</h2>
 
-- <b>RLE ASCII FILE COMPRESSOR</b>
+- <b>Simulated User-Space Device Driver in C</b>
   - [Rle Ascii file compressor](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>PSEUDO-DEVICE DRIVER IN C</b>
+- <b>RLE file compressor</b>
   - [Device Driver](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 
