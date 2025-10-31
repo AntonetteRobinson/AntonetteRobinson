@@ -15,9 +15,8 @@
 <h2>👨‍💻 Systems Programming Projects - C languauge :</h2>
 
 - <b>Simulated User-Space Device Driver in C</b>
-  - [Device-Driver][(https://github.com/joshmadakor1/Algorithms-Practice)](https://github.com/AntonetteRobinson/Simulated-User-Space-Device-Driver)
-- <b>RLE file compressor</b>
-  - [Device Driver](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Device-Driver ](https://github.com/AntonetteRobinson/Simulated-User-Space-Device-Driver)
+
 
 
 
@@ -25,7 +24,7 @@
 - <b>Socket Programming</b>
 
 <h2> Software Engineering Projects - Python & Java </h2>
-- <b>HR Leave Management System</b>
+- <b>HR Leave Management System - (ongoing) </b>
 
 
 <!--
