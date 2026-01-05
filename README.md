@@ -27,7 +27,7 @@
 <h2> 👨‍💻 Networking Projects: </h2>
 
 - <b>Implementation of Cryptographic Algorithms</b>
-  - [CRYPTOGRAPHY ](https://github.com/AntonetteRobinson/Simulated-User-Space-Device-Driver)
+  - [CRYPTOGRAPHY ](https://github.com/AntonetteRobinson/Cryptography.git)
 
 
 <h2> 👨‍💻 Software Engineering Projects: - Python </h2>
