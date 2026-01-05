@@ -1,7 +1,7 @@
 <h1>Antonette Robinson <br/> </h1>
 - <b>The University of The West Indies </b> <br>
 - <b>BSC.in Computer Science </b> <br>
-- <b>CyberSecurity Enthusiast </b> <br>
+- <b>Network and Security Enthusiast </b> <br>
 
 
 <h2> 🤳 Connect with me: </h2> 
@@ -18,25 +18,24 @@
 <h2> </h2>
 <h2>👨‍💻 Systems Programming Projects :</h2>
 
-- <b>Simulated User-Space Device Driver in C</b>
-  - [DEVICE-DRIVER ](https://github.com/AntonetteRobinson/Simulated-User-Space-Device-Driver)
+- [Simulated User-Space Device Driver in C](https://github.com/AntonetteRobinson/Simulated-User-Space-Device-Driver)
 
 
 
 
 <h2> 👨‍💻 Networking Projects: </h2>
 
-- <b>Implementation of Cryptographic Algorithms</b>
-  - [CRYPTOGRAPHY ](https://github.com/AntonetteRobinson/Cryptography.git)
-  - [SOCKET PROGRAMMING](https://github.com/AntonetteRobinson/Socket-Programming.git)
+
+- [Implementation of Cryptographic Algorithms ](https://github.com/AntonetteRobinson/Cryptography.git)
+- [Socket Programming Over TCP Connection](https://github.com/AntonetteRobinson/Socket-Programming.git)
     
 
 
 <h2> 👨‍💻 Software Engineering Projects: - Python </h2>
 
-- <b> Human Resource Leave Management System </b>
 
-    - [HR_MS](https://github.com/AntonetteRobinson/hrMS.git)
+ - [Human Resource Leave Management System](https://github.com/AntonetteRobinson/hrMS.git)
+ - [Point of Sale System](https://github.com/AntonetteRobinson/POS-SYSTEM.git)
   
 
 
