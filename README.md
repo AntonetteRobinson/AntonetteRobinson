@@ -16,11 +16,10 @@
 
 <br>
 <h2> 👨‍💻 Software Engineering Projects: - Python </h2>
- - [Human Resource Leave Management System](https://github.com/AntonetteRobinson/hrMS.git)
- <br>
  - [George Alleyne Hall Management System](https://github.com/AntonetteRobinson/GAHsystem.git)
+ <br>
+ - [Human Resource Leave Management System](https://github.com/AntonetteRobinson/hrMS.git)
  
-
 
 <h2> 👨‍💻 Networking Projects: </h2>
 - [Implementation of Cryptographic Algorithms ](https://github.com/AntonetteRobinson/Cryptography.git)
