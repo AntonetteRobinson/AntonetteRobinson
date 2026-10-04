@@ -17,14 +17,9 @@
 <br>
 <h2> 👨‍💻 Software Engineering Projects: - Python </h2>
  - [Human Resource Leave Management System](https://github.com/AntonetteRobinson/hrMS.git)
+ <br>
  - [George Alleyne Hall Management System](https://github.com/AntonetteRobinson/GAHsystem.git)
  
- 
-<h2> 👨‍💻 Database Project: SQL </h2>
-- [Database Final Project] (
-
-
-
 
 
 <h2> 👨‍💻 Networking Projects: </h2>
