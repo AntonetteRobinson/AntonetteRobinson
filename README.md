@@ -16,7 +16,8 @@
 
 <br>
 <h2> 👨‍💻 Software Engineering Projects: - Python </h2>
- - [Human Resource Leave Management System](https://github.com/AntonetteRobinson/hrMS.git)\
+ - [Human Resource Leave Management System](https://github.com/AntonetteRobinson/hrMS.git)
+ -
  
  
 <h2> 👨‍💻 Database Project: SQL </h2>
