@@ -18,7 +18,7 @@
 <h2> 👨‍💻 Software Engineering Projects: - Python </h2>
  - [George Alleyne Hall Management System](https://github.com/AntonetteRobinson/GAHsystem.git)
  <br>
- - [Human Resource Leave Management System](https://github.com/AntonetteRobinson/hrMS.git)
+
  
 
 <h2> 👨‍💻 Networking Projects: </h2>
